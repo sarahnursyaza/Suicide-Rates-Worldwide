@@ -1,0 +1,1 @@
+Temparature affect day-to-day weather along side with precipitation activity. It describes the degree to which a country is hot or cold, wet or dry, calm or stormy, and clear or cloudy.

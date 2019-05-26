@@ -1,0 +1,1 @@
+The Gini index is a simple measure of the distribution of income across income percentiles in a population. A higher Gini index indicates greater inequality, with high income individuals receiving much larger percentages of the total income of the population.
